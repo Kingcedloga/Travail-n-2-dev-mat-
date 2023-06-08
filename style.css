@@ -1,0 +1,51 @@
+header h1{
+    background-image:url('images/pattern.jpeg') ;
+}
+h1 {
+    font-family: helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+h2 {
+    font-size: 32px;
+    font-family: helvetica;
+    font-weight: bold;
+    color:white;
+
+}
+.Brushes h2{
+    background-color:mediumseagreen ;
+}
+.Frames h2{
+    background-color: lightcoral;
+}
+.Paint h2{
+    background-color: skyblue;
+}
+span{ 
+    font-family: helvetica;
+    font-weight: bold;
+    color:blue;
+}
+p{
+    font-family: helvetica;
+}
+.comment{
+    font-size: 15px;
+    font-weight: bold;
+}
+footer p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    background-color: khaki;
+    text-align: center;
+    height: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+footer p a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
